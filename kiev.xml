@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/motorola/kiev" name="LineageOS/android_device_motorola_kiev" remote="github" revision="lineage-20"/>
+
+    <!--Kernel-->
+    <project path="kernel/motorola/sm7250" name="LineageOS/android_kernel_motorola_sm7250" remote="github" revision="lineage-20" />
+
+    <!-- Vendor folders -->
+    <project path="vendor/motorola/kiev" name="TheMuppets/proprietary_vendor_motorola_kiev" remote="github" revision="lineage-20" />
+
+    <!-- Hardware -->
+    <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="github" revision="lineage-20" />
+
+    <!-- System -->
+    <project path="system/qcom" name="LineageOS/android_system_qcom" remote="github" revision="lineage-20" />
+</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tree-->
+  <project name="cm14-mt8127/vendor_amazon_mt8127-common" path="vendor/amazon/mt8127-common" remote="github" revision="cm-14.1"/>
+  <project name="cm14-mt8127/vendor_amazon_ford" path="vendor/amazon/ford" remote="github" revision="cm-14.1"/>
+  <project name="cm14-mt8127/vendor_amazon_austin" path="vendor/amazon/austin" remote="github" revision="cm-14.1"/>
+  <project name="cm14-mt8127/device_amazon_mt8127-common" path="device/amazon/mt8127-common" remote="github" revision="cm-14.1"/>
+  <project name="cm14-mt8127/kernel_amazon_mt8127-common" path="kernel/amazon/mt8127-common" remote="github" revision="cm-14.1"/>
+  <project name="cm14-mt8127/device_amazon_austin" path="device/amazon/austin" remote="github" revision="cm-14.1"/>
+  <project name="cm14-mt8127/device_amazon_ford" path="device/amazon/ford" remote="github" revision="cm-14.1"/>
+</manifest>

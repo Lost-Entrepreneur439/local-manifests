@@ -5,10 +5,10 @@
 
     <project path="device/google/oriole" name="crdroidandroid/android_device_google_oriole" remote="github" revision="14.0"/>
     <project path="device/google/raviole" name="crdroidandroid/android_device_google_raviole" remote="github" revision="14.0"/>
-    <project path="device/google/gs101" name="LineageOS/android_device_google_gs101" remote="github" revision="14.0"/>
+    <project path="device/google/gs101" name="LineageOS/android_device_google_gs101" remote="github" revision="lineage-21"/>
     <project path="device/google/raviole-kernel" name="device/google/raviole-kernel" remote="aosp-raviole"/>
-    <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" remote="github" revision="14.0"/>
+    <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" remote="github" revision="lineage-21"/>
 
-    <project path="vendor/google/oriole" name="LineageOS/proprietary_vendor_google_oriole" remote="github" revision="14.0" />
+    <project path="vendor/google/oriole" name="TheMuppets/proprietary_vendor_google_oriole" remote="github" revision="lineage-21" />
 
 </manifest>

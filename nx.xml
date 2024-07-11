@@ -26,7 +26,7 @@
   <project path="kernel/nvidia/nvgpu" remote="github" name="LineageOS/android_kernel_nvidia_nvgpu" revision="lineage-21" />
   <project path="kernel/nvidia/wireguard" remote="github" name="LineageOS/android_kernel_nvidia_wireguard" revision="lineage-21" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-9.3" remote="github" name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3" revision="lineage-21.0" />
-  <project path="vendor/nintendo/nx" remote="github" name="LineageOS/proprietary_vendor_nintendo_nx" revision="lineage-21" />
-  <project path="vendor/nvidia/t210" remote="github" name="LineageOS/proprietary_vendor_nvidia_t210" revision="lineage-21" />
-  <project path="vendor/nvidia/common" remote="github" name="LineageOS/proprietary_vendor_nvidia_common" revision="lineage-21" />
+  <project path="vendor/nintendo/nx" remote="github" name="TheMuppets/proprietary_vendor_nintendo_nx" revision="lineage-21" />
+  <project path="vendor/nvidia/t210" remote="github" name="TheMuppets/proprietary_vendor_nvidia_t210" revision="lineage-21" />
+  <project path="vendor/nvidia/common" remote="github" name="TheMuppets/proprietary_vendor_nvidia_common" revision="lineage-21" />
 </manifest>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/nintendo/nx_tab" remote="github" name="LineageOS/android_device_nintendo_nx_tab" revision="lineage-21" />
-  <project path="device/nintendo/nx" remote="github" name="LineageOS/android_device_nintendo_nx" revision="lineage-21" />
-  <project path="device/nvidia/t210-common" remote="github" name="LineageOS/android_device_nvidia_t210-common" revision="lineage-21" />
-  <project path="device/nvidia/tegra-common" remote="github" name="LineageOS/android_device_nvidia_tegra-common" revision="lineage-21" />
-  <project path="device/nvidia/sepolicy" remote="github" name="LineageOS/android_device_nvidia_sepolicy" revision="lineage-21" />
+  <project path="device/nintendo/nx_tab" remote="github" name="crdroidandroid/android_device_nintendo_nx_tab" revision="14.0" />
+  <project path="device/nintendo/nx" remote="github" name="crdroidandroid/android_device_nintendo_nx" revision="14.0" />
+  <project path="device/nvidia/t210-common" remote="github" name="crdroidandroid/android_device_nvidia_t210-common" revision="14.0" />
+  <project path="device/nvidia/tegra-common" remote="github" name="crdroidandroid/android_device_nvidia_tegra-common" revision="14.0" />
+  <project path="device/nvidia/sepolicy" remote="github" name="crdroidandroid/android_device_nvidia_sepolicy" revision="14.0" />
   <project path="external/libevdev" remote="github" name="LineageOS/android_external_libevdev" revision="lineage-21.0" />
   <project path="hardware/nintendo/arm-trusted-firmware" remote="github" name="LineageOS/android_hardware_nintendo_arm-trusted-firmware" revision="lineage-21" />
   <project path="hardware/nintendo/joycond" remote="github" name="LineageOS/android_hardware_nintendo_joycond" revision="lineage-21" />

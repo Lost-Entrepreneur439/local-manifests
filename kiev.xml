@@ -5,7 +5,7 @@
     <project path="device/motorola/kiev" name="LineageOS/android_device_motorola_kiev" remote="github" revision="lineage-20"/>
 
     <!--Kernel-->
-    <project path="kernel/motorola/sm7250" name="crdroidandroid/android_kernel_motorola_sm7250" remote="github" revision="13.0" />
+    <project path="kernel/motorola/sm7250" name="LineageOS/android_kernel_motorola_sm7250" remote="github" revision="13.0" />
 
     <!-- Vendor folders -->
     <project path="vendor/motorola/kiev" name="TheMuppets/proprietary_vendor_motorola_kiev" remote="github" revision="lineage-20" />

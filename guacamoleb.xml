@@ -2,7 +2,7 @@
 
 <manifest>
     <!--Device Trees-->
-    <project path="device/oneplus/guacamoleb" name="LineageOS/android_device_oneplus_guacamoleb" remote="github" revision="lineage-21"/>
+    <project path="device/oneplus/guacamoleb" name="crdroidandroid/android_device_oneplus_guacamoleb" remote="github" revision="14.0"/>
     <project path="device/oneplus/sm8150-common" name="LineageOS/android_device_oneplus_sm8150-common" remote="github" revision="lineage-21"/>
 
     <!--Kernel-->

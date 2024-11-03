@@ -8,7 +8,6 @@
   <project path="external/libevdev" remote="github" name="LineageOS/android_external_libevdev" revision="lineage-21.0" />
   <project path="hardware/nintendo/arm-trusted-firmware" remote="github" name="LineageOS/android_hardware_nintendo_arm-trusted-firmware" revision="lineage-21" />
   <project path="hardware/nintendo/joycond" remote="github" name="LineageOS/android_hardware_nintendo_joycond" revision="lineage-21" />
-  <project path="hardware/nintendo/u-boot" remote="github" name="LineageOS/android_hardware_nintendo_u-boot" revision="lineage-21" />
   <project path="hardware/intel/sensors-iio" remote="github" name="LineageOS/android_hardware_intel_sensors-iio" revision="lineage-21" />
   <project path="hardware/nvidia/interfaces" remote="github" name="LineageOS/android_hardware_nvidia_interfaces" revision="lineage-21.0" />
   <project path="hardware/nvidia/light" remote="github" name="LineageOS/android_hardware_nvidia_light" revision="lineage-21.0" />

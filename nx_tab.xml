@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/nintendo/nx_tab" remote="github" name="crdroidandroid/android_device_nintendo_nx_tab" revision="15.0" />
+  <project path="device/nintendo/nx" remote="github" name="crdroidandroid/android_device_nintendo_nx" revision="15.0" />
+  <project path="device/nvidia/t210-common" remote="github" name="crdroidandroid/android_device_nvidia_t210-common" revision="15.0" />
+  <project path="device/nvidia/tegra-common" remote="github" name="crdroidandroid/android_device_nvidia_tegra-common" revision="15.0" />
+  <project path="device/nvidia/sepolicy" remote="github" name="crdroidandroid/android_device_nvidia_sepolicy" revision="15.0" />
+  <project path="external/libevdev" remote="github" name="crdroidandroid/android_external_libevdev" revision="15.0" />
+  <project path="hardware/nintendo/arm-trusted-firmware" remote="github" name="crdroidandroid/android_hardware_nintendo_arm-trusted-firmware" revision="15.0" />
+  <project path="hardware/nintendo/joycond" remote="github" name="crdroidandroid/android_hardware_nintendo_joycond" revision="15.0" />
+  <project path="hardware/intel/sensors-iio" remote="github" name="crdroidandroid/android_hardware_intel_sensors-iio" revision="15.0" />
+  <project path="hardware/nvidia/interfaces" remote="github" name="crdroidandroid/android_hardware_nvidia_interfaces" revision="15.0" />
+  <project path="hardware/nvidia/light" remote="github" name="crdroidandroid/android_hardware_nvidia_light" revision="15.0" />
+  <project path="hardware/nvidia/platform/t210/nx" remote="github" name="crdroidandroid/android_hardware_nvidia_platform_t210_nx" revision="15.0" />
+  <project path="hardware/nvidia/power" remote="github" name="crdroidandroid/android_hardware_nvidia_power" revision="15.0" />
+  <project path="hardware/nvidia/thermal" remote="github" name="crdroidandroid/android_hardware_nvidia_thermal" revision="15.0" />
+  <project path="hardware/nvidia/platform/tegra/common" remote="github" name="crdroidandroid/android_hardware_nvidia_platform_tegra_common" revision="15.0" />
+  <project path="hardware/nvidia/platform/t210/common" remote="github" name="crdroidandroid/android_hardware_nvidia_platform_t210_common" revision="15.0" />
+  <project path="hardware/nvidia/soc/t210" remote="github" name="crdroidandroid/android_hardware_nvidia_soc_t210" revision="15.0" />
+  <project path="hardware/nvidia/soc/tegra" remote="github" name="crdroidandroid/android_hardware_nvidia_soc_tegra" revision="15.0" />
+  <project path="kernel/nvidia/cypress-fmac-upstream" remote="github" name="crdroidandroid/android_kernel_nvidia_cypress-fmac-upstream" revision="15.0" />
+  <project path="kernel/nvidia/exfat" remote="github" name="crdroidandroid/android_kernel_nvidia_exfat" revision="15.0" />
+  <project path="kernel/nvidia/kernel-4.9-nx" remote="github" name="crdroidandroid/android_kernel_nvidia_kernel-nx" revision="15.0" />
+  <project path="kernel/nvidia/nvidia-nx" remote="github" name="crdroidandroid/android_kernel_nvidia_nvidia-nx" revision="15.0" />
+  <project path="kernel/nvidia/nvgpu" remote="github" name="crdroidandroid/android_kernel_nvidia_nvgpu" revision="15.0" />
+  <project path="kernel/nvidia/wireguard" remote="github" name="crdroidandroid/android_kernel_nvidia_wireguard" revision="15.0" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-9.3" remote="github" name="crdroidandroid/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3" revision="15.0" />
+  <project path="vendor/nintendo/nx" remote="github" name="crdroidandroid/proprietary_vendor_nintendo_nx" revision="15.0" />
+  <project path="vendor/nvidia/t210" remote="github" name="crdroidandroid/proprietary_vendor_nvidia_t210" revision="15.0" />
+  <project path="vendor/nvidia/common" remote="github" name="crdroidandroid/proprietary_vendor_nvidia_common" revision="15.0" />
+</manifest>

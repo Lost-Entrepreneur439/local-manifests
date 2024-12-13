@@ -2,7 +2,7 @@
 <manifest>
   <project path="device/samsung/universal7885-common" remote="github" name="crdroidandroid/android_device_samsung_universal7885-common" revision="14.0" />
   <project path="device/samsung/a20" remote="github" name="crdroidandroid/android_device_samsung_a20" revision="14.0" />
-  <project path="kernel/samsung/exynos7885" remote="github" name="eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S" revision="R15_rom" />
+  <project path="kernel/samsung/exynos7885" remote="github" name="eurekadevelopment/Eureka-Kernel" revision="R15_rom" />
   <project path="vendor/samsung" remote="github" name="eurekadevelopment/android_vendor_samsung_exynos7885" revision="android-14" />
   <project path="hardware/samsung_slsi/libbt" remote="github" name="LineageOS/android_hardware_samsung_slsi_libbt" revision="lineage-21" />
   <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" remote="github" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" revision="lineage-21" />

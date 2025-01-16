@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- THIS CURRENTLY IS NOT WORKING, TOUCHSCREEN IS NON-FUNCTIONAL -->
+  
+    <!-- Device -->
+    <project name="Lost-Entrepreneur439/android_device_samsung_gteslte" remote="github" revision="cm-14.1" path="device/samsung/gteslte"/>
+
+    <!--Kernel Source-->
+    <project name="Lost-Entrepreneur439/android_kernel_samsung_gteslte" remote="github" revision="cm-14.1" path="kernel/samsung/exynos3475"/>
+
+    <!--Proprietary Blobs-->
+    <project name="Lost-Entrepreneur439/proprietary_vendor_samsung_gteslte" remote="github" revision="cm-14.1" path="vendor/samsung/gteslte"/>
+
+    <!--hardware trees-->
+    <project name="Exynos3475/android_hardware_samsung_slsi_exynos3475" path="hardware/samsung_slsi/exynos3475" remote="github" revision="cm-14.1" />
+    <project name="Lost-Entrepreneur439/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-16.0" />
+    <project name="Exynos3475/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+    <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+</manifest>

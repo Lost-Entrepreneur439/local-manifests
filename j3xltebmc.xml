@@ -2,12 +2,13 @@
 <manifest>
     <!-- Device -->
     <project name="Lost-Entrepreneur439/android_device_samsung_j3xltebmc" remote="github" revision="lineage-17.1" path="device/samsung/j3xltebmc"/>
-    <project name="Exynos3475/android_device_samsung_universal3475-common" remote="github" revision="lineage-17.1" path="device/samsung/universal3475-common"/>
+    <project name="Lost-Entrepreneur439/android_device_samsung_universal3475-common" remote="github" revision="lineage-17.1" path="device/samsung/universal3475-common"/>
     
     <!--Kernel Source-->
     <project name="Lost-Entrepreneur439/android_kernel_samsung_exynos3475" remote="github" revision="lineage-17.1" path="kernel/samsung/exynos3475"/>
 
     <!--Proprietary Blobs-->
+    <project name="Exynos3475/android_vendor_samsung" remote="github" revision="lineage-17.1" path="vendor/samsung"/>
     <project name="Lost-Entrepreneur439/proprietary_vendor_samsung_j3xltebmc" remote="github" revision="lineage-17.1" path="vendor/samsung/j3xltebmc"/>
 
     <!-- Toolchain -->

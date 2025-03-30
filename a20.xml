@@ -7,7 +7,7 @@
     <project name="crdroidandroid/android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces" remote="github" revision="15.0"/>
     <project name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-vortex" path="prebuilts/clang/host/linux-x86/clang-vortex" remote="github" revision="15.0"/>
     <project name="crdroidandroid/android_device_samsung_universal7885-common" path="device/samsung/universal7885-common" remote="github" revision="15.0"/>
-    <project name="crdroidandroid/android_kernel_samsung_exynos7885" path="kernel/samsung/exynos7885" remote="github" revision="15.0"/>
+    <project name="crdroidandroid/android_kernel_samsung_exynos7885" path="kernel/samsung/exynos7885" remote="github" revision="15.0" recurse_submodules="true"/>
     <project name="crdroidandroid/android_hardware_samsung_slsi_libbt" path="hardware/samsung_slsi/libbt" remote="github" revision="15.0"/>
     <project name="crdroidandroid/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" remote="github" revision="15.0"/>
     <project name="crdroidandroid/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" remote="github" revision="15.0"/>

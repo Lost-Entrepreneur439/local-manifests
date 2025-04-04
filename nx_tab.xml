@@ -6,6 +6,7 @@
   <project path="device/nvidia/tegra-common" remote="github" name="crdroidandroid/android_device_nvidia_tegra-common" revision="15.0" />
   <project path="device/nvidia/sepolicy" remote="github" name="crdroidandroid/android_device_nvidia_sepolicy" revision="15.0" />
   <project path="hardware/dolby/interfaces" remote="github" name="crdroidandroid/android_hardware_dolby_interfaces" revision="15.0" />
+  <project path="hardware/nintendo/arm-trusted-firmware" remote="github" name="crdroidandroid/android_hardware_nintendo_arm-trusted-firmware" revision="15.0" />
   <project path="external/libevdev" remote="github" name="crdroidandroid/android_external_libevdev" revision="15.0" />
   <project path="hardware/nintendo/joycond" remote="github" name="crdroidandroid/android_hardware_nintendo_joycond" revision="15.0" />
   <project path="hardware/intel/sensors-iio" remote="github" name="crdroidandroid/android_hardware_intel_sensors-iio" revision="15.0" />

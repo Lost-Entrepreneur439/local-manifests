@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/amazon/mantis" name="amazon-oss/android_device_amazon_mantis" remote="github" revision="cm-14.1"/>
+    <project path="device/amazon/mantis-kernel" name="amazon-oss/android_device_amazon_mantis-kernel" remote="github" revision="cm-14.1"/>
+
+    <!-- Vendor folders -->
+    <project path="vendor/amazon/mantis" name="amazon-oss/android_vendor_amazon_mantis" remote="github" revision="cm-14.1" />
+    <project path="vendor/google/atv" name="amazon-oss/proprietary_vendor_google_atv" remote="github" revision="main" />
+
+    <!-- Hardware -->
+    <project path="hardware/amazon" name="amazon-oss/android_hardware_amazon" remote="github" revision="cm-14.1" />
+</manifest>

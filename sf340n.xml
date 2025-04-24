@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/lge/sf340n" name="Lost-Entrepreneur439/android_device_lge_sf340n" remote="github" revision="lineage-15.1"/>
+    <project path="device/lge/common" name="LineageOS/android_device_lge_common" remote="github" revision="lineage-15.1"/>
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.1"/>
+
+    <!--Kernel-->
+    <project path="kernel/lge/sd4xx-common" name="Lost-Entrepreneur439/android_kernel_lge_sd4xx-common" remote="github" revision="lineage-15.1" />
+
+    <!-- Vendor folders -->
+    <project path="vendor/lge/sf340n" name="Lost-Entrepreneur439/android_vendor_lge_sf340n" remote="github" revision="lineage-15.1" />
+
+    <!-- Hardware -->
+    <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+</manifest>

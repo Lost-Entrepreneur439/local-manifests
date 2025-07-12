@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/google/crosshatch" remote="github" name="crdroidandroid/android_device_google_crosshatch" revision="15.0" />
+  <project path="packages/apps/ElmyraService" remote="github" name="crdroidandroid/android_packages_apps_ElmyraService" revision="15.0" />
+  <project path="kernel/google/b1c1" remote="github" name="crdroidandroid/android_kernel_google_b1c1" revision="15.0" />
+  <project path="vendor/google/crosshatch" remote="github" name="crdroidandroid/android_vendor_google_crosshatch" revision="15.0" />
+  <project path="device/google/gs-common" remote="github" name="crdroidandroid/android_device_google_gs-common" revision="15.0" />
+</manifest>

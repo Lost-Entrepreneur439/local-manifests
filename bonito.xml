@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <!--Device Trees-->
+  <project path="device/google/bonito" name="Evolution-X-Devices/device_google_bonito" remote="github" revision="vic"/>
+  <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" remote="github" revision="lineage-22.2"/>
+
+  <!--Kernel-->
+  <project path="kernel/google/b4s4" name="Evolution-X-Devices/kernel_google_b4s4" remote="github" revision="vic" />
+
+  <!-- Vendor folders -->
+  <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" remote="github" revision="lineage-22.2"/>
+
+  <!-- Packages -->
+  <project path="packages/apps/ElmyraService" name="LineageOS/android_packages_apps_ElmyraService" remote="github" revision="lineage-22.2" />
+</manifest>

@@ -10,7 +10,7 @@
   <project path="kernel/google/b4s4" name="crdroidandroid/android_kernel_google_b4s4" remote="github" revision="15.0" />
 
   <!-- Vendor folders -->
-  <project name="crdroidandroid/proprietary_vendor_google_sargo" path="vendor/google/sargo" remote="github" revision="15.0"/>
+  <project name="crdroidandroid/android_vendor_google_sargo" path="vendor/google/sargo" remote="github" revision="15.0"/>
   <project name="crdroidandroid/android_vendor_google_bonito" path="vendor/google/bonito" remote="github" revision="15.0"/>
 
   <!-- Packages -->

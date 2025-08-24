@@ -2,15 +2,15 @@
 
 <manifest>
   <!--Device Trees-->
-  <project path="device/google/bonito" name="Evolution-X-Devices/device_google_bonito" remote="github" revision="vic"/>
-  <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" remote="github" revision="lineage-22.2"/>
+  <project path="device/google/bonito" name="crdroidandroid/android_device_google_bonito" remote="github" revision="15.0"/>
+  <project path="device/google/gs-common" name="crdroidandroid/android_device_google_gs-common" remote="github" revision="15.0"/>
 
   <!--Kernel-->
-  <project path="kernel/google/b4s4" name="Evolution-X-Devices/kernel_google_b4s4" remote="github" revision="vic" />
+  <project path="kernel/google/b4s4" name="crdroidandroid/android_kernel_google_b4s4" remote="github" revision="15.0" />
 
   <!-- Vendor folders -->
-  <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" remote="github" revision="lineage-22.2"/>
+  <project name="crdroidandroid/proprietary_vendor_google_bonito" path="vendor/google/bonito" remote="github" revision="15.0"/>
 
   <!-- Packages -->
-  <project path="packages/apps/ElmyraService" name="LineageOS/android_packages_apps_ElmyraService" remote="github" revision="lineage-22.2" />
+  <project path="packages/apps/ElmyraService" name="crdroidandroid/android_packages_apps_ElmyraService" remote="github" revision="15.0" />
 </manifest>

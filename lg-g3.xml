@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device -->
-    <project name="itsHardStyl3r/android_device_lge_ls990" remote="github" revision="lineage-18.1" path="device/lge/ls990"/>
-    <project name="itsHardStyl3r/android_device_lge_d850" remote="github" revision="lineage-18.1" path="device/lge/d850"/>
-    <project name="itsHardStyl3r/android_device_lge_d851" remote="github" revision="lineage-18.1" path="device/lge/d851"/>
-    <project name="itsHardStyl3r/android_device_lge_d852" remote="github" revision="lineage-18.1" path="device/lge/d852"/>
-    <project name="itsHardStyl3r/android_device_lge_f400" remote="github" revision="lineage-18.1" path="device/lge/f400"/>
-    <project name="itsHardStyl3r/android_device_lge_vs985" remote="github" revision="lineage-18.1" path="device/lge/vs985"/>
-    <project name="itsHardStyl3r/android_device_lge_g3ds" remote="github" revision="lineage-18.1" path="device/lge/g3ds"/>
-    <project name="itsHardStyl3r/android_device_lge_d855" remote="github" revision="lineage-18.1" path="device/lge/d855"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_d850" remote="github" revision="r11.1" path="device/lge/d850"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_d851" remote="github" revision="r11.1" path="device/lge/d851"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_d852" remote="github" revision="r11.1" path="device/lge/d852"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_d855" remote="github" revision="r11.1" path="device/lge/d855"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_f400" remote="github" revision="r11.1" path="device/lge/f400"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_g3ds" remote="github" revision="r11.1" path="device/lge/g3ds"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_ls990" remote="github" revision="r11.1" path="device/lge/ls990"/>
+    <project name="Lost-Entrepreneur439/android_device_lge_vs985" remote="github" revision="r11.1" path="device/lge/vs985"/>
     <project name="itsHardStyl3r/android_device_lge_g3-common" remote="github" revision="lineage-18.1" path="device/lge/g3-common"/>
     
     <!--Kernel Source-->

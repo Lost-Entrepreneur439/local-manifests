@@ -2,19 +2,17 @@
 
 <manifest>
     <!--Device Trees-->
-    <project path="device/motorola/kiev" name="LineageOS/android_device_motorola_kiev" remote="github" revision="lineage-21"/>
-    <project path="device/motorola/sm7250-common" name="LineageOS/android_device_motorola_sm7250-common" remote="github" revision="lineage-21"/>
+    <project path="device/motorola/kiev" name="LineageOS/android_device_motorola_kiev" remote="github" revision="lineage-22.2"/>
+    <project path="device/motorola/sm7250-common" name="LineageOS/android_device_motorola_sm7250-common" remote="github" revision="lineage-22.2"/>
     
     <!--Kernel-->
-    <project path="kernel/motorola/sm7250" name="LineageOS/android_kernel_motorola_sm7250" remote="github" revision="lineage-21" />
+    <project path="kernel/motorola/sm7250" name="LineageOS/android_kernel_motorola_sm7250" remote="github" revision="lineage-22.2" />
 
     <!-- Vendor folders -->
-    <project name="TheMuppets/proprietary_vendor_motorola_kiev" path="vendor/motorola/kiev" remote="github" revision="lineage-21"/>
-    <project name="TheMuppets/proprietary_vendor_motorola_sm7250-common" path="vendor/motorola/sm7250-common" remote="github" revision="lineage-21"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_kiev" path="vendor/motorola/kiev" remote="github" revision="lineage-22.2"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_sm7250-common" path="vendor/motorola/sm7250-common" remote="github" revision="lineage-22.2"/>
 
     <!-- Hardware -->
-    <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="github" revision="lineage-21" />
-
-    <!-- System -->
-    <project path="system/qcom" name="LineageOS/android_system_qcom" remote="github" revision="lineage-21" />
+    <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="github" revision="lineage-22.2" />
+    <project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="github" revision="lineage-22.2" />
 </manifest>

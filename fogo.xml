@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/motorola/fogo" name="crdroidandroid/android_device_motorola_fogo" remote="github" revision="16.0"/>
+    <project path="device/motorola/sm6375-common" name="crdroidandroid/android_device_motorola_sm6375-common" remote="github" revision="16.0"/>
+
+    <!--Kernel-->
+    <project path="kernel/motorola/sm6375" name="crdroidandroid/android_kernel_motorola_sm6375" remote="github" revision="16.0" />
+
+    <!-- Vendor folders -->
+    <project name="crdroidandroid/proprietary_vendor_motorola_fogo" path="vendor/motorola/fogo" remote="github" revision="16.0"/>
+    <project name="crdroidandroid/proprietary_vendor_motorola_sm6375-common" path="vendor/motorola/sm6375-common" remote="github" revision="16.0"/>
+
+    <!-- Hardware -->
+    <project path="hardware/motorola" name="crdroidandroid/android_hardware_motorola" remote="github" revision="16.0" />
+</manifest>

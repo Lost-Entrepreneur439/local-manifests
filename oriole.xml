@@ -4,7 +4,7 @@
     <project path="device/google/oriole" name="crdroidandroid/android_device_google_oriole" remote="github" revision="16.0"/>
     <project path="device/google/raviole" name="crdroidandroid/android_device_google_raviole" remote="github" revision="16.0"/>
     <project path="device/google/gs101" name="crdroidandroid/android_device_google_gs101" remote="github" revision="16.0"/>
-    <project path="device/google/raviole-kernels/6.1" name="crdroidandroid/android_device_google_raviole-kernels_6.1" remote="github" revision="16.0"/>
+    <project path="device/google/raviole-kernels" name="crdroidandroid/android_device_google_raviole-kernels" remote="github" revision="16.0"/>
     <project path="device/google/gs-common" name="crdroidandroid/android_device_google_gs-common" remote="github" revision="16.0"/>
 
     <project path="vendor/google/oriole" name="TheMuppets/proprietary_vendor_google_oriole" remote="github" revision="lineage-23.0" />

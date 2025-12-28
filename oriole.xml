@@ -7,6 +7,6 @@
     <project path="device/google/raviole-kernels" name="crdroidandroid/android_device_google_raviole-kernels" remote="github" revision="16.0"/>
     <project path="device/google/gs-common" name="crdroidandroid/android_device_google_gs-common" remote="github" revision="16.0"/>
 
-    <project path="vendor/google/oriole" name="TheMuppets/proprietary_vendor_google_oriole" remote="github" revision="lineage-23.0" />
+    <project path="vendor/google/oriole" name="TheMuppets/proprietary_vendor_google_oriole" remote="github" revision="lineage-23.1" />
 
 </manifest>

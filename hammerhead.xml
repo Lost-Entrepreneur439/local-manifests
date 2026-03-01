@@ -18,4 +18,7 @@
     <project path="hardware/qcom/audio" name="Ultra-Legacy-Hippeastrum/android_hardware_qcom_audio" remote="github" revision="lineage-22.2" />
     <project path="hardware/qcom/display" name="Ultra-Legacy-Hippeastrum/android_hardware_qcom_display" remote="github" revision="lineage-22.2" />
     <project path="hardware/qcom/media" name="Ultra-Legacy-Hippeastrum/android_hardware_qcom_media" remote="github" revision="lineage-22.2" />
+
+    <!-- Prebults -->
+    <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" name="Lost-Entrepreneur439/android_prebuilts_gcc_linux-x86_arm_arm-eabi" remote="github" revision="16.0-qpr0" />
 </manifest>

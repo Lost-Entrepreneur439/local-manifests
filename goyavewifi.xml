@@ -7,7 +7,7 @@
     <project path="device/samsung/scx35-common" name="sc8830-Bringup/android_device_samsung_scx35-common" remote="github" revision="lineage-15.1"/>
 
     <!--Kernel-->
-    <project path="kernel/samsung/sc8830" name="Lost-Entrepreneur439/android_kernel_samsung_sc8830" remote="github" revision="lineage-15.1" />
+    <project path="kernel/samsung/sc8830" name="sc8830-Bringup/android_kernel_samsung_sc8330" remote="github" revision="lineage-15.1" />
 
     <!-- Vendor folders -->
     <project path="vendor/samsung/goyavewifi" name="sc8830-Bringup/android_vendor_samsung_goyavewifi" remote="github" revision="lineage-15.1" />

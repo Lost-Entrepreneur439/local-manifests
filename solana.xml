@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<project name="moto-solana/android_device_motorola_solana" path="device/motorola/solana" remote="github" revision="cm-11.0-rebase" />
+<project name="moto-solana/android_device_motorola_solana" path="device/motorola/solana" remote="github" revision="cm-11.0" />
 <project name="LineageOS/android_device_motorola_omap4-common" path="device/motorola/omap4-common" remote="github" revision="cm-11.0" />
 <project name="moto-solana/android_kernel_motorola_omap4-common" path="kernel/motorola/omap4-common" remote="github" revision="cm-11.0" />
 <project name="moto-solana/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-11.0" />

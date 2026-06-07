@@ -3,7 +3,7 @@
 <manifest>
   <!-- You will need nexus5-patches from my GitHub to build and boot properly. --> 
     <!--Device Trees-->
-    <project path="device/lge/hammerhead" name="Lost-Entrepreneur439/android_device_lge_hammerhead" remote="github" revision="16.0"/>
+    <project path="device/lge/hammerhead" name="Lost-Entrepreneur439/android_device_lge_hammerhead" remote="github" revision="16.1"/>
     <project path="device/qcom/sepolicy-legacy" name="Ultra-Legacy-Hippeastrum/android_device_qcom_sepolicy" remote="github" revision="lineage-23.2-legacy"/>
 
     <!--Kernel-->

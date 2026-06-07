@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <project path="device/google/raven" name="crdroidandroid/android_device_google_raven" remote="github" revision="16.0"/>
+  <project path="device/google/raviole" name="crdroidandroid/android_device_google_raviole" remote="github" revision="16.0"/>
+  <project path="device/google/gs101" name="crdroidandroid/android_device_google_gs101" remote="github" revision="16.0"/>
+  <project path="device/google/raviole-kernels" name="crdroidandroid/android_device_google_raviole-kernels" remote="github" revision="16.0"/>
+  <project path="device/google/gs-common" name="crdroidandroid/android_device_google_gs-common" remote="github" revision="16.0"/>
+
+  <project path="vendor/google/raven" name="crdroidandroid/android_vendor_google_raven" remote="github" revision="16.0" />
+
+</manifest>

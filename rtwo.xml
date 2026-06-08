@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/motorola/rtwo" name="crdroidandroid/android_device_motorola_rtwo" remote="github" revision="16.0"/>
+    <project path="device/motorola/sm8550-common" name="crdroidandroid/android_device_motorola_sm8550-common" remote="github" revision="16.0"/>
+    
+    <!--Kernel-->
+    <project path="kernel/motorola/sm8550" name="crdroidandroid/android_kernel_motorola_sm8550" remote="github" revision="16.0" />
+    <project path="kernel/motorola/sm8550-modules" name="crdroidandroid/android_kernel_motorola_sm8550-modules" remote="github" revision="16.0" />
+    <project path="kernel/motorola/sm8550-devicetrees" name="crdroidandroid/android_kernel_motorola_sm8550-devicetrees" remote="github" revision="16.0" />
+
+    <!-- Vendor folders -->
+    <project name="crdroidandroid/proprietary_vendor_motorola_rtwo" path="vendor/motorola/rtwo" remote="github" revision="16.0"/>
+    <project name="crdroidandroid/proprietary_vendor_motorola_sm8550-common" path="vendor/motorola/sm8550-common" remote="github" revision="16.0"/>
+
+    <!-- Hardware -->
+    <project path="hardware/motorola" name="crdroidandroid/android_hardware_motorola" remote="github" revision="16.0" />
+</manifest>

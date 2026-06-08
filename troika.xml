@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/motorola/troika" name="crdroidandroid/android_device_motorola_troika" remote="github" revision="16.0"/>
+    <project path="device/motorola/exynos9610-common" name="crdroidandroid/android_device_motorola_exynos9610-common" remote="github" revision="16.0"/>
+    <project path="device/samsung_slsi/sepolicy" name="crdroidandroid/android_device_samsung_slsi_sepolicy" remote="github" revision="16.0"/>
+    
+    <!--Kernel-->
+    <project path="kernel/motorola/exynos9610" name="crdroidandroid/android_kernel_motorola_exynos9610" remote="github" revision="16.0" />
+
+    <!-- Vendor folders -->
+    <project name="crdroidandroid/android_vendor_motorola_troika" path="vendor/motorola/troika" remote="github" revision="16.0"/>
+    <project name="crdroidandroid/android_vendor_motorola_exynos9610-common" path="vendor/motorola/exynos9610-common" remote="github" revision="16.0"/>
+
+    <!-- Hardware -->
+    <project path="hardware/motorola" name="crdroidandroid/android_hardware_motorola" remote="github" revision="16.0" />
+    <project path="hardware/samsung" name="crdroidandroid/android_hardware_samsung" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi/fm" name="crdroidandroid/android_hardware_samsung_slsi_fm" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi/libbt" name="crdroidandroid/android_hardware_samsung_slsi_libbt" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi/nfc" name="crdroidandroid/android_hardware_samsung_slsi_nfc" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi-linaro/camera" name="crdroidandroid/android_hardware_samsung_slsi-linaro_camera" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi-linaro/config" name="crdroidandroid/android_hardware_samsung_slsi-linaro_config" remote="github" revision="16.0-x1s" />
+    <project path="hardware/samsung_slsi-linaro/exynos" name="crdroidandroid/android_hardware_samsung_slsi-linaro_exynos" remote="github" revision="16.0-x1s" />
+    <project path="hardware/samsung_slsi-linaro/exynos5" name="crdroidandroid/android_hardware_samsung_slsi-linaro_exynos5" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi-linaro/graphics" name="crdroidandroid/android_hardware_samsung_slsi-linaro_graphics" remote="github" revision="16.0-x1s" />
+    <project path="hardware/samsung_slsi-linaro/interfaces" name="crdroidandroid/android_hardware_samsung_slsi-linaro_interfaces" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi-linaro/openmax" name="crdroidandroid/android_hardware_samsung_slsi-linaro_openmax" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="crdroidandroid/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="16.0" />
+    <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="crdroidandroid/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="github" revision="16.0" />
+</manifest>

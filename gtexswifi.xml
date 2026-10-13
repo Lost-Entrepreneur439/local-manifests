@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
+    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
+    <project path="kernel/samsung/gtexswifi" name="underscoremone/android_kernel_samsung_gtexswifi" remote="github" revision="cm-14.1"/>
+    <project path="device/samsung/gtexswifi" name="Lost-Entrepreneur439/device_samsung_gtexswifi" remote="github" revision="n7.1"/>
+    <project path="vendor/samsung/gtexswifi" name="Lost-Entrepreneur439/vendor_samsung_gtexswifi" remote="github" revision="n7.1"/>
+    <project path="hardware/sprd" name="underscoremone/android_hardware_sprd" remote="github" revision="cm-14.1"/>
+    <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1"/>
+    <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-7.5" name="underscoremone/android_prebuilts_gcc_linux-x86_arm_arm-eabi" remote="github" revision="linaro-7.5.0-2019.12" />
+</manifest>
